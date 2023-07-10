@@ -19,3 +19,9 @@
 <li>SASS</li>
 <li>Bootstrap</li>
 <li>Tailwind</li>
+
+<h2>I'D LOVE TO TALK!</h2>
+
+<p>Please contact me via email atm, although more ways will be added in the future, thank you.</p>
+
+<h3>Email: <b>lendondev@gmail.com</b></h3>
