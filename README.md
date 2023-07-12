@@ -25,3 +25,5 @@
 <p>Please contact me via email atm, although more ways will be added in the future, thank you.</p>
 
 <h3>Email: <b>lendondev@gmail.com</b></h3>
+
+<h3>Personal Website:</h3><a>www.lendondev.co.uk</a>
