@@ -1,10 +1,10 @@
 <h1>Hey, I'm Lewis. 👋 </h1>
 
-<p>I am avid web developer and designer, looking for ways to expand my knowledge, experience and struggles.</p>
+<p>I am avid web developer and designer, looking for ways to expand my knowledge, experience.</p>
 
-<p>I've been developing and coding for the past 3 years on and off, putting in time when I can whilst I work.</p>
+<p>I've been developing and programming for over the past 3 years on and off, putting in time when I can whilst I work.</p>
 
-<p>I have aspirations to become a veteran developer with much knowledge and skills. 🔥</p>
+<p>I have aspirations to become a veteran developer, with much knowledge and skills about both front & backend systems and their designs. 🔥</p>
 
 <h2>KNOWN LANGUAGES:</h2>
 
@@ -26,4 +26,4 @@
 
 <h3>Email: <b>lendondev@gmail.com</b></h3>
 
-<h3>Personal Website:<a href="www.lendondev.co.uk">www.lendondev.co.uk</a></h3>
+<h3>Personal Website:<a href="www.lendondev.co.uk"> www.lendondev.co.uk</a></h3>
