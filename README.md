@@ -4,7 +4,7 @@
 
 <p>I've been developing and programming for over the past 3 years on and off, putting in time when I can whilst I work.</p>
 
-<p>I have aspirations to become a veteran developer, with much knowledge and skills about both front & backend systems and their designs. 🔥</p>
+<p>I have aspirations to become a veteran developer, with much knowledge and skills about both front & backend systems and how they operate. 🔥</p>
 
 <h2>KNOWN LANGUAGES:</h2>
 
