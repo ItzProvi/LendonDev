@@ -8,13 +8,13 @@
 
 <h2>KNOWN LANGUAGES:</h2>
 
-<li>HTML</li>
-<li>CSS</li>
+<li>HTML5</li>
+<li>CSS3</li>
 <li>Javascript</li>
-<li>PHP</li>
 
 <h2>KNOWN FRAMEWORKS & DEV TOOLS</h2>
 
+<li>npm & Nodejs</li>
 <li>React</li>
 <li>SASS</li>
 <li>Bootstrap</li>
