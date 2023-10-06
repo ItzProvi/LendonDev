@@ -20,6 +20,16 @@
 <li>Bootstrap</li>
 <li>Tailwind</li>
 
+<h2>WHAT AM I LEARNING NEXT?</h2>
+
+<p>Here are some idea I am thinking of researching, using and becoming accustomed to!</p>
+
+<li>SCSS</li>
+<li>React Native?</li>
+<li>MongoDB</li>
+<li>Firebase?</li>
+
+
 <h2>I'D LOVE TO TALK!</h2>
 
 <p>Please contact me via email atm, although more ways will be added in the future, thank you.</p>
